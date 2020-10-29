@@ -1,0 +1,11 @@
+C:\Users\satis\Documents\Projects\Solirus-Test\Solirus-Test\bin\Debug\netcoreapp2.2\Solirus.deps.json
+C:\Users\satis\Documents\Projects\Solirus-Test\Solirus-Test\bin\Debug\netcoreapp2.2\Solirus.runtimeconfig.json
+C:\Users\satis\Documents\Projects\Solirus-Test\Solirus-Test\bin\Debug\netcoreapp2.2\Solirus.runtimeconfig.dev.json
+C:\Users\satis\Documents\Projects\Solirus-Test\Solirus-Test\bin\Debug\netcoreapp2.2\Solirus.dll
+C:\Users\satis\Documents\Projects\Solirus-Test\Solirus-Test\bin\Debug\netcoreapp2.2\Solirus.pdb
+C:\Users\satis\Documents\Projects\Solirus-Test\Solirus-Test\obj\Debug\netcoreapp2.2\Solirus.csproj.CoreCompileInputs.cache
+C:\Users\satis\Documents\Projects\Solirus-Test\Solirus-Test\obj\Debug\netcoreapp2.2\Solirus.AssemblyInfoInputs.cache
+C:\Users\satis\Documents\Projects\Solirus-Test\Solirus-Test\obj\Debug\netcoreapp2.2\Solirus.AssemblyInfo.cs
+C:\Users\satis\Documents\Projects\Solirus-Test\Solirus-Test\obj\Debug\netcoreapp2.2\Solirus.dll
+C:\Users\satis\Documents\Projects\Solirus-Test\Solirus-Test\obj\Debug\netcoreapp2.2\Solirus.pdb
+C:\Users\satis\Documents\Projects\Solirus-Test\Solirus-Test\obj\Debug\netcoreapp2.2\Solirus.csprojAssemblyReference.cache
